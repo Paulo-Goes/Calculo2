@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         // Sample user input as a string
-        String userInput = "-x^2 + 4";
+        String userInput = "x^2 + 4";
 
         double a = 0.0; // Inferior limit
         double b = 1.0; // Superior limit

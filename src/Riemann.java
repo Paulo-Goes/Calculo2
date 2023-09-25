@@ -29,7 +29,6 @@ public class Riemann {
         } catch (Exception e) {
             System.err.println("Invalid expression: " + expression);
         }
-
         return sum;
     }
 }
